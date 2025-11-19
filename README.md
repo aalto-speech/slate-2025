@@ -40,7 +40,31 @@ conda env create -n slate2025 -f environment.yaml
 ---
 
 # Citation
-Coming soon.
+### Closed track: 
+Porwal, A., Phan, N., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025) Exploring Ordinal Classification for Spoken Language Assessment. Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE), 158-162, doi: 10.21437/SLaTE.2025-32
+```bixtex
+@inproceedings{porwal25_slate,
+  title     = {{Exploring Ordinal Classification for Spoken Language Assessment}},
+  author    = {Anusha Porwal and Nhan Phan and Yaroslav Getman and Ekaterina Voskoboinik and Tamás Grósz and Mikko Kurimo},
+  year      = {2025},
+  booktitle = {{10th Workshop on Speech and Language Technology in Education (SLaTE)}},
+  pages     = {158--162},
+  doi       = {10.21437/SLaTE.2025-32},
+}
+```
+
+### Open track: 
+Phan, N., Porwal, A., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025) One Whisper to Grade Them All. Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE), 56-60, doi: 10.21437/SLaTE.2025-12
+```bixtex
+@inproceedings{phan25_slate,
+  title     = {{One Whisper to Grade Them All}},
+  author    = {Nhan Phan and Anusha Porwal and Yaroslav Getman and Ekaterina Voskoboinik and Tamás Grósz and Mikko Kurimo},
+  year      = {2025},
+  booktitle = {{10th Workshop on Speech and Language Technology in Education (SLaTE)}},
+  pages     = {56--60},
+  doi       = {10.21437/SLaTE.2025-12},
+}
+```
 
 # License
 Our work is shared under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
