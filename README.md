@@ -50,6 +50,7 @@ Porwal, A., Phan, N., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025)
   booktitle = {{10th Workshop on Speech and Language Technology in Education (SLaTE)}},
   pages     = {158--162},
   doi       = {10.21437/SLaTE.2025-32},
+  issn      = {2311-4975},
 }
 ```
 
@@ -63,6 +64,7 @@ Phan, N., Porwal, A., Getman, Y., Voskoboinik, E., Grósz, T., Kurimo, M. (2025)
   booktitle = {{10th Workshop on Speech and Language Technology in Education (SLaTE)}},
   pages     = {56--60},
   doi       = {10.21437/SLaTE.2025-12},
+  issn      = {2311-4975},
 }
 ```
 
